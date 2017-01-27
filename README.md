@@ -1,4 +1,5 @@
 # HelloWorld
 
-- GitHub ���g���Ă݂�
+- GitHub の勉強用リポジトリです。
 
+- This repository is for my learn.
